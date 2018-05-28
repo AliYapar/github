@@ -1,0 +1,7 @@
+* {font-family:Arial, Helvetica, sans-serif;}
+.sipList {padding: 40px 0; border-bottom:1px solid #ddd; display: inline-block; width: 100%;}
+.gorsel {float: left; margin-right: 20px;}
+.icerik span {font-size: 14px; display: block; margin-bottom: 5px;}
+.icerik span.urnAd {font-weight: bold;}
+.icerik a {display: inline-block; color: teal; font-size: 11px; margin-right: 10px; padding-right: 10px; border-right: 1px solid teal;}
+.icerik > a:last-child {border: 0;}
