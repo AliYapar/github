@@ -4,5 +4,5 @@ window.addEventListener('load', () => {
         el:'#app',
         data:'',
     })
-
+ 
 })
